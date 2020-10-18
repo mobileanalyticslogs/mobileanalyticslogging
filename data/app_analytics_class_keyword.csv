@@ -1,0 +1,136 @@
+repo id,repo url,keyword,earliest committer,second earliest committer,latest committer,top three contributor,total commit
+1,https://github.com/ivan-magda/Habito,"logCreateHabitWithName logAppOpen logLogin
+logViewHabitListItem",imagda15@gmail.com:Ivan Magda,imagda15@gmail.com:Ivan Magda,imagda15@gmail.com:Ivan Magda,imagda15@gmail.com:Ivan Magda andmendezr@gmail.com:Ander Méndez ,125
+2,https://github.com/OneSignal/OneSignal-Android-SDK,trackInfluenceOpenEvent trackOpenedEvent trackReceivedEvent,Josh@onesignal.com:Josh Kasten,Josh@onesignal.com:Josh Kasten,josh@onesignal.com:Josh Kasten,josh@onesignal.com:Josh Kasten Josh@onesignal.com:Josh Kasten nightsd01@gmail.com:Brad Hesse ,890
+3,https://github.com/MGaetan89/ShowsRage,logEvent,m.gaetan89@gmail.com:Gaëtan Muller,m.gaetan89@gmail.com:Gaëtan Muller,m.gaetan89@gmail.com:Gaëtan Muller,m.gaetan89@gmail.com:Gaëtan Muller m.gaetan89@gmail.com:Gaëtan Muller gaetan.muller@swissquote.ch:Gaëtan Muller ,822
+4,https://github.com/k0shk0sh/FastAccess,logEvent,kosh20111@gmail.com:kosh,kosh20111@gmail.com:kosh,fastaccess.app@gmail.com:FastAccess,kosh20111@gmail.com:Kosh kosh20111@gmail.com:kosh fastaccess.app@gmail.com:FastAccess ,88
+5,https://github.com/TomTasche/OpenDocument.droid,report,tomtasche@gmail.com:Tom Tasche,tomtasche@gmail.com:Tom Tasche,tomtasche@gmail.com:Thomas Taschauer,tomtasche@gmail.com:Thomas Taschauer tom@indoo.rs:Thomas Taschauer tomtasche@gmail.com:Tom Tasche ,4851
+6,https://github.com/Adventech/sabbath-school-android,logEvent,lim.vitaliy@gmail.com:VitalikL,lim.vitaliy@gmail.com:VitalikL,tmzon08@gmail.com:Tinashe Mzondiwa,lim.vitaliy@gmail.com:VitalikL tmzon08@gmail.com:Tinashe Mzondiwa evanmr4@gmail.com:imasaru ,864
+7,https://github.com/SoftwareEngineeringDaily/SEDaily-Android,"trackFirebaseBasic trackUpVote trackDownVote
+trackRegistration trackLogin",krh121791@gmail.com:Keith Holliday,krh121791@gmail.com:Keith Holliday,kvithayathil@users.noreply.github.com:Kurian Vithayathil,krh121791@yahoo.com:Keith Holliday k.vithayathil@gmail.com:Kurian Vithayathil krh121791@gmail.com:thehollidayinn ,137
+8,https://github.com/blockchain/My-Wallet-V3-Android,logEvent logUserId logUserProperty,riaan.vos@blockchain.com:Riaan Vos,william.hill@gmail.com:WilliamHill,jackpooleybc@users.noreply.github.com:Jack Pooley,adam@blockchain.com:Adam Bennett riaan.vos@blockchain.com:Riaan Vos william.hill@gmail.com:WilliamHill ,6818
+9,https://github.com/mozilla-tw/ScreenshotGo,"startSession stopSession visitWelcomePage grantStoragePermission promptOverlayPermission grantOverlayPermission notGrantOverlayPermission
+visitPermissionErrorPage visitHomePage startSearch clickOnQuickAccess clickMoreOnQuickAccess clickOnCollection createCollectionFromHome
+enterSettings visitCollectionPage collectionItem clickOnSortingButton createCollectionWhenSorting sortScreenshot cancelSorting promptSortingPage
+captureViaFab captureViaNotification captureViaExternal viewScreenshot extractTextFromScreenshot viewTextInScreenshot promptExtractedTextMenu
+searchFromExtractedText copyExtractedText shareExtractedText clickOnTextBlock clickLinkInExtractedText selectAllExtractedText clickOnOCRBottomTip
+clickOnOCRErrorTip visitSearchPage interestedInSearch notInterestedInSearch clickSearchResult closeFAB stopCaptureService promptFeedbackDialog
+clickFeedback promptShareDialog clickShareApp shareApp logActiveBackgroundService longPressOnScreenshot moveScreenshot deleteScreenshot
+shareScreenshot",osimpleo@gmail.com:Teng-pao Yu,pharspher@gmail.com:Roger,chengwc@gmail.com:Benjamin Cheng,pharspher@gmail.com:Roger chengwc@gmail.com:Benjamin Cheng mochen@mozilla.com:Morpheus ,692
+10,https://github.com/mozilla-tw/FirefoxLite,"toggleFirstRunPageEvent finishFirstRunEvent launchByAppLauncherEvent launchByHomeScreenShortcutEvent launchByPrivateModeShortcut showPrivateShortcutPrompt
+clickPrivateShortcutPrompt clickPrivateShortcutItemInSettings exitPrivateMode createPrivateShortcut appKilled launchByExternalAppEvent settingsEvent settingsClickEvent
+settingsLearnMoreClickEvent settingsLocaleChangeEvent startSession stopSession openWebContextMenuEvent cancelWebContextMenuEvent shareLinkEvent shareImageEvent
+saveImageEvent copyLinkEvent copyImageEvent addNewTabFromContextMenu browseGeoLocationPermissionEvent browseFilePermissionEvent browsePermissionEvent
+browseEnterFullScreenEvent browseExitFullScreenEvent showMenuHome showTabTrayHome showTabTrayToolbar showMenuToolbar clickMenuDownload clickMenuHistory
+clickMenuCapture showPanelBookmark showPanelDownload showPanelHistory showPanelCapture menuTurboChangeTo menuNightModeChangeTo menuBlockImageChangeTo
+clickMenuClearCache clickMenuSettings clickMenuExit clickMenuBookmark clickToolbarForward clickToolbarReload clickToolbarShare clickToolbarBookmark clickAddToHome
+clickToolbarCapture clickTopSiteOn removeTopSite addNewTabFromHome browseEvent searchSelectEvent searchEnterEvent togglePrivateMode searchSuggestionLongClick
+searchClear searchDismiss showSearchBarHome clickUrlbar clickToolbarSearch clickAddTabToolbar clickAddTabTray privateModeTray clickTabFromTabTray closeTabFromTabTray
+swipeTabFromTabTray closeAllTabFromTabTray downloadRemoveFile downloadDeleteFile downloadOpenFile openLifeFeedNews clickOnNewsSetting changeNewsSetting
+clickOnNewsItem openLifeFeedEc clickOnEcItem openLifeFeedPromo clickOnPromoItem showFileContextMenu historyOpenLink historyRemoveLink bookmarkRemoveItem
+bookmarkEditItem bookmarkOpenItem showHistoryContextMenu showBookmarkContextMenu clearHistory openCapture openCaptureLink editCaptureImage shareCaptureImage
+showCaptureInfo deleteCaptureImage clickRateApp showRateApp showDefaultSettingNotification receiveFirstrunConfig showFirstrunNotification clickDefaultSettingNotification
+onDefaultBrowserServiceFailed promoteShareClickEvent showPromoteShareDialog changeThemeTo resetThemeToDefault erasePrivateModeNotification showHome
+showBannerNew showBannerUpdate showBannerReturn showBannerSwipe clickBannerBackground clickBannerItem swipeBannerItem clickWifiFinderSurvey clickVpnSurvey
+surveyResult showVpnRecommender clickVpnRecommender clickVpnRecommend dismissVpnRecommend findInPage nightModeBrightnessChangeTo longPressDownloadIndicator
+clickFindInPageNext clickFindInPagePrevious clickMenuFindInPage clickDefaultBrowserInSetting clickQuickSearchEngine enterLandscapeMode exitLandscapeMode
+showInAppUpdateIntroDialog showInAppUpdateGooglePlayDialog clickInAppUpdateIntroDialog clickInAppUpdateGooglePlayDialog showInAppUpdateInstallPrompt
+clickInAppUpdateInstallPrompt",s.kaspari@gmail.com:Sebastian Kaspari,s.kaspari@gmail.com:Sebastian Kaspari,please-set-your-email@bitrise.io:l10n workflow,chengwc@gmail.com:Benjamin Cheng osimpleo@gmail.com:Teng-pao Yu walkingice0204@gmail.com:Julian_Chu ,4585
+11,https://github.com/antest1/kcanotify,sendUserAnalytics,alias_n@live.jp:antest1,alias_n@live.jp:antest1,alias_n@live.jp:antest1,alias_n@live.jp:antest1 alias_n@yonsei.ac.kr:antest1 alias_n@live.jp:IE10 ,2272
+12,https://github.com/wbaumann/SmartReceiptsLibrary,record AnalyticsProvider provideAnalytics,will.r.baumann@gmail.com:Will Baumann,will.r.baumann@gmail.com:Will Baumann,ministeve412@gmail.com:ministeve412,wbaumann@github.com:Will Baumann julia.soboleva26@gmail.com:Julia Soboleva julia.soboleva26@gmail.com:Julia ,2236
+13,https://github.com/HabitRPG/habitica-android,sendEvent logOnboardingEvents logEvent ,micky0304@gmail.com:Mickael Goubin,eugen.bolz@gmail.com:Negue,phillip@thelen.space:Phillip Thelen,viirus@pherth.net:Phillip Thelen phillip@habitica.com:Phillip Thelen eugen.bolz@gmail.com:Negue ,3156
+14,https://github.com/Phantast/smartnavi,logEvent,christian6767@gmail.com:Christian,christian6767@gmail.com:Christian,Phantast@users.noreply.github.com:Christian,christian6767@gmail.com:Christian Phantast@users.noreply.github.com:Christian phantast@users.noreply.github.com:Christian ,85
+15,https://github.com/DreierF/MyTargets,logEvent,dreier.florian@gmail.com:Florian Dreier,dreier.florian@gmail.com:Florian Dreier,dreier.florian@gmail.com:Florian Dreier,dreier.florian@gmail.com:Florian Dreier dreier.florian@gmail.com:DreierF dreier.florian@gmail.com:Unknown ,940
+16,https://github.com/malmstein/yahnac,"trackPage trackStory trackEvent trackLogin
+trackNavigateEvent trackShareEvent
+trackVoteEvent trackBookmarkEvent",malmstein@gmail.com:David Gonzalez,malmstein@gmail.com:David Gonzalez,malmstein@gmail.com:David González,malmstein@gmail.com:David Gonzalez david@novoda.com:David González malmstein@gmail.com:David González ,674
+17,https://github.com/jeisfeld/Augendiagnose,sendEvent,Joerg@192.168.178.21:Joerg,Joerg@192.168.178.21:Joerg,github@jeisfeld.de:Jörg Eisfeld,github@jeisfeld.de:Jörg Eisfeld Joerg@IBL-PC-611.fritz.box:Joerg Joerg@192.168.178.21:Joerg ,1042
+18,https://github.com/Bridouille/android-beacon-scanner,logEvent,nicobr65@gmail.com:Nicolas Bridoux,nicobr65@gmail.com:Nicolas Bridoux,nicobr65@gmail.com:Nicolas Bridoux,nicobr65@gmail.com:Nicolas Bridoux enrico@socketmobile.com:Enrico Mills juho.jokelainen@vincit.fi:Juho ,98
+19,https://github.com/google/iosched,"sendScreenView logUiEvent
+setUserSignedIn setUserRegistered",roman@nurik.net:Roman Nurik,roman@nurik.net:Roman Nurik,tiembo@users.noreply.github.com:Tiem Song,shailentuli@google.com:Shailen Tuli jdkoren@google.com:Jonathan Koren nickbutcher@google.com:Nick Butcher ,2746
+20,https://github.com/tasomaniac/OpenLinkWith,sendEvent,tasomaniac@gmail.com:Said Tahsin Dane,tasomaniac@gmail.com:Said Tahsin Dane,tasomaniac@gmail.com:Said Tahsin Dane,tasomaniac@gmail.com:Said Tahsin Dane tahsin@novoda.com:Said Tahsin Dane francoisvincentmail-game@yahoo.fr:Poussinou ,846
+21,https://github.com/bookdash/bookdash-android-app,trackLanguageChange trackViewBooksDownloaded trackViewBook trackDeleteBook trackRateAppClick trackViewContributors trackViewAllBooks trackDeleteBookFailed trackDownloadBookStarted trackDownloadBookFailed trackShareBook trackInvitePeople setUserLanguage trackSearchBooks trackSearchError trackSearchBooksSuccess trackSearchBooksNoResults trackViewHelpTutorialAgain trackUserToggleNewBookNotifications getDefultTracker,franks.rebecca@gmail.com:Rebecca Franks,franks.rebecca@gmail.com:Rebecca Franks,franks.rebecca@gmail.com:Rebecca Franks,franks.rebecca@gmail.com:Rebecca Franks heinrich@thereachtrust.org:HeinrichWesson hello@riggaroo.co.za:Rebecca Franks ,332
+22,https://github.com/DSteve595/Put.io,"logViewedFile logBrowsedToFolder logSearched
+logStartedFileDownload logStartedVideoDownload
+logDownloadFinished logOpenedDownloadedFile
+logOpenedDownloadedVideo logStreamedVideo",steven@stevenschoen.com:Steven Schoen,steven@stevenschoen.com:Steven Schoen,simon.reggiani@gmail.com:Simon Reggiani,steven@stevenschoen.com:Steven Schoen simon@xomodigital.com:Simon simon.reggiani@gmail.com:Simon Reggiani ,422
+23,https://github.com/NasaGeek/utexas-utilities,analyticsTracker,randomnameftw@gmail.com:Chris R,randomnameftw@gmail.com:Chris R,randomnameftw@gmail.com:Chris R,randomnameftw@gmail.com:Chris R randomnameftw@gmail.com:Chris Roberts croberts@qti.qualcomm.com:Christopher Roberts ,590
+24,https://github.com/vpaliy/Melophile,logEvent,vpaliy97@gmail.com:vpaliy,vpaliy97@gmail.com:vpaliy,vpaliy97@gmail.com:thevpaliy,vpaliy97@gmail.com:vpaliy vpaliy97@gmail.com:Vasyl Paliy vpaliy97@gmail.com:thevpaliy ,166
+25,https://github.com/NineWorlds/serenity-android,"sendStartedApplicationEvent
+logEvent",dcarver@intalio.com:David Carver,d_a_carver@yahoo.com:David Carver,d_a_carver@yahoo.com:David Carver,d_a_carver@yahoo.com:David Carver kingargyle@users.noreply.github.com:David Carver aalbert@google.com:Alon Albert ,1369
+26,https://github.com/mopsalarm/Pr0,loginStarted loginSuccessful loginFailed logout writeComment writeMessage searchImage votePost voteTag voteComment gotoFirefoxFocusWebsite openBrowser upload inboxNotificationShown inboxNotificationClosed preloadCurrentFeed inviteSent registerLinkClicked registerFAQClicked passwordChanged specialMenuActionClicked updateUserState openFeed viewItem inboxActivity openZoomView adEvent,mopsalarm@example.com:Mopsalarm,mopsalarm@example.com:Mopsalarm,mopsalarm@users.noreply.github.com:Mopsalarm,mopsalarm@users.noreply.github.com:Mopsalarm mopsalarm@example.com:Mopsalarm mopsalarm@users.noreply.github.com:mopsalarm ,4044
+27,https://github.com/romannurik/muzei,logEvent,roman@nurik.net:Roman Nurik,roman@nurik.net:Roman Nurik,ian.hannibal.lake@gmail.com:Ian Lake,ian.hannibal.lake@gmail.com:Ian Lake ian.hannibal.lake@gmail.com:ianhanniballake ilake@google.com:Ian Lake ,2457
+28,https://github.com/squanchy-dev/squanchy-android,"trackPageView trackItemSelected trackNotificationsEnabled
+trackNotificationsDisabled trackFavoritesInScheduleEnabled
+trackFavoritesInScheduleDisabled trackUserNotLoggedIn
+trackUserLoggedInFrom setUserLoginProperty trackWifiConfigurationEvent",taras.kunyk@lemberg.co.uk:Taras Kunyk,taras.kunyk@lemberg.co.uk:Taras Kunyk,rock3r@users.noreply.github.com:Sebastiano Poggi,poggos@gmail.com:Sebastiano Poggi lorenzo.quiroli@gmail.com:Lorenzo Quiroli rock3r@users.noreply.github.com:Sebastiano Poggi ,3808
+29,https://github.com/evercam/evercam-android,logEvent,liuting.du@evercam.io:Liuting Du,liuting.du@evercam.io:Liuting Du,nainawan1@yahoo.com:Zulqarnain Mustafa,kangtadlt@gmail.com:Liuting Du nainawan1@yahoo.com:Zulqarnain Mustafa adjiev.dmitry@gmail.com:Dmitry A ,1052
+30,https://github.com/jeffdcamp/android-template,logEvent,jcampbell@jcampbell-W520.(none):Jeff Campbell,jcampbell@jcampbell-W520.(none):Jeff Campbell,jeffdcamp@gmail.com:jeffdcamp,jeffdcamp@gmail.com:Jeff Campbell jeffdcamp@gmail.com:jeffdcamp jcampbell@jcampbell-W520.(none):Jeff Campbell ,822
+31,https://github.com/oasisfeng/island,send,git@id.oasisfeng.com:oasisfeng,git@id.oasisfeng.com:oasisfeng,git@id.oasisfeng.com:oasisfeng,git@id.oasisfeng.com:oasisfeng imlody@foxmail.com:asLody ,619
+32,https://github.com/Jigsaw-Code/intra,log,bemasc@google.com:Ben Schwartz,bemasc@google.com:Ben Schwartz,bemasc@google.com:Ben Schwartz,bemasc@google.com:Ben Schwartz bemasc@uproxy.org:Benjamin M. Schwartz bemasc@google.com:Benjamin M. Schwartz ,454
+33,https://github.com/Ashish-Bansal/OneTapVideoDownload,logEvent,bansal.ashish096@gmail.com:Ashish Bansal,bansal.ashish096@gmail.com:Ashish Bansal,bansal.ashish096@gmail.com:Ashish Bansal (mr.phantom),bansal.ashish096@gmail.com:Ashish Bansal me@ashishbansal.in:automation-daemon bansal.ashish096@gmail.com:Ashish Bansal (mr.phantom) ,655
+34,https://github.com/OneBusAway/onebusaway-android,"reportUiEvent reportLoginEvent reportSearchEvent
+reportViewStopEvent setRegion setSendAnonymousData
+setLeftHanded setShowDepartedVehicles setAccessibility
+reportDestinationReminderFeedback",paulcwatts@gmail.com:Paul Watts,paulcwatts@gmail.com:Paul Watts,sjbarbeau@gmail.com:Sean Barbeau,barbeau@cutr.usf.edu:Sean Barbeau paulcwatts@gmail.com:Paul Watts sjbarbeau@gmail.com:Sean Barbeau ,2317
+35,https://github.com/OlgaKuklina/GitJourney,logEvent,okuklina@hotmail.com:OlgaKuklina,okuklina@hotmail.com:OlgaKuklina,okuklina@hotmail.com:OlgaKuklina,okuklina@hotmail.com:OlgaKuklina okuklina@hotmail.com:Olga Kuklina badger@codacy.com:The Codacy Badger ,213
+36,https://github.com/1hakr/AnExplorer,logEvent,heart.break.kid.b4u@gmail.com:Hari Krishna Dulipudi,heart.break.kid.b4u@gmail.com:Hari Krishna Dulipudi,heart.break.kid.b4u@gmail.com:Hari,heart.break.kid.b4u@gmail.com:Hari Krishna Dulipudi heart.break.kid.b4u@gmail.com:Hari Krishna Duipudi heart.break.kid.b4u@gmail.com:Hari ,623
+37,https://github.com/RocketChat/Rocket.Chat.Android,"logLogin logSignUp logScreenView logMessageSent
+logMediaUploaded logReaction logServerSwitch logOpenAdmin logResetPassword logVideoConference logInviteSent logMessageActionAddReaction logMessageActionReply logMessageActionQuote logMessageActionPermalink logMessageActionCopy logMessageActionEdit logMessageActionInfo logMessageActionStar logMessageActionPin logMessageActionReport logMessageActionDelete",gabriel.engel@gmail.com:Gabriel Engel,gabriel.engel@gmail.com:Gabriel Engel,rodrigoknascimento@gmail.com:Rodrigo Nascimento,filipedelimabrito@gmail.com:Filipe de Lima Brito leoaramaki@gmail.com:Leonardo Aramaki luciofm@gmail.com:Lucio Maciel ,5095
+38,https://github.com/edx/edx-app-android,"trackScreenView trackVideoLoading trackVideoPlaying
+trackVideoPause trackVideoStop trackVideoSeek
+trackShowTranscript trackVideoSpeed trackHideTranscript
+trackDownloadComplete trackCourseUpgradeSuccess
+trackSubSectionBulkVideoDownload trackSingleVideoDownload trackVideoOrientation
+trackCoursesSearch trackUserLogin trackUserLogout
+trackBrowserLaunched trackTranscriptLanguage
+trackUserSignUpForAccount trackUserFindsCourses
+trackCreateAccountClicked trackRegistrationSuccess
+trackEnrollClicked trackEnrolmentSuccess trackUserConnectionSpeed trackNotificationReceived
+trackNotificationTapped courseDetailShared
+certificateShared trackCourseComponentViewed
+trackOpenInBrowser trackProfileViewed
+trackProfilePhotoSet trackAppRatingDialogViewed
+trackAppRatingDialogCancelled trackUserSubmitRating
+trackUserSendFeedback trackUserMayReviewLater
+trackRateTheAppClicked trackWhatsNewClosed
+trackWhatsNewSeen trackSubsectionVideosDelete
+trackUndoingSubsectionVideosDelete trackUnitVideoDelete
+trackUndoingUnitVideoDelete trackBulkDownloadSwitchOn
+trackBulkDownloadSwitchOff trackSubjectClicked
+trackDownloadToSdCardSwitchOn trackCastDeviceConnectionChanged trackDownloadToSdCardSwitchOff trackExperimentParams",ed@edx.org:Edward Zarecor,akiva@edx.org:Akiva Leffert,43750646+farhan-arshad-dev@users.noreply.github.com:Farhan Arshad,mkhalid@edx.org:Mian Khalid shahid.tamboli@claricetechnologies.com:shahidtamboli bguertin@edx.org:Brian Guertin ,3045
+39,https://github.com/xdtianyu/CallerInfo,logEvent,xdtianyu@gmail.com:tianyu,xdtianyu@gmail.com:tianyu,xdtianyu@gmail.com:tianyu,xdtianyu@gmail.com:tianyu ilove@1a23.com:Eana Hufwe leynonj@gmail.com:Weifeng Chen ,736
+40,https://github.com/yukuku/androidbible,trackEvent,svndumpmerge@svn:svndumpmerge,yuku@ikitek.com:Yuku,yukuku@gmail.com:Yuku on yuku9,yukuku@gmail.com:Yuku on yuku8 yukuku@gmail.com:Yuku on yuku5 inirudy@gmail.com:Rudy ,3658
+41,https://github.com/klinker-apps/talon-for-twitter-android,"startLogin loginToTwitter finishLoginToTwitter
+downloadTweets finishLogin showRateItPrompt
+rateItOnPlayStore errorLoadingTweetFromNotification
+appNotPurchased appNotPurchasedFirstWarning
+appNotPurchasedLastWarning appPurchased",lklinker1@gmail.com:lukeklinker,lklinker1@gmail.com:lukeklinker,lklinker1@gmail.com:Luke Klinker,lklinker1@gmail.com:Luke Klinker lklinker1@gmail.com:lukeklinker lkinker1@gmail.com:Luke Klinker ,5920
+42,https://github.com/harismuneer/Wanderlust-The-Travellers-App,logEvent,example@example.com:Your Name,example@example.com:Your Name,haris.muneer5@gmail.com:Haris Muneer ⚡️,example@example.com:Your Name haris.muneer5@gmail.com:harismuneer haris.muneer5@gmail.com:Haris Muneer ,72
+43,https://github.com/HearthSim/arcane_tracker,logEvent,martin@mbonnin.net:Martin Bonnin,martin@mbonnin.net:Martin Bonnin,martin@mbonnin.net:Martin Bonnin,martin@mbonnin.net:Martin Bonnin ubb@example.com:UBB jug6ernaut@gmail.com:williamwebb ,1033
+44,https://github.com/plusCubed/velociraptor,logOsmRequest logOsmError,plusCubed@users.noreply.github.com:plusCubed,plusCubed@users.noreply.github.com:plusCubed,6379975+plusCubed@users.noreply.github.com:Daniel Ciao,plusCubed@users.noreply.github.com:plusCubed pluscubed@users.noreply.github.com:plusCubed plusCubed@users.noreply.github.com:Daniel Ciao ,337
+45,https://github.com/seven332/EhViewer,onSceneView start,seven332@163.com:seven332,seven332@163.com:seven332,seven332@163.com:seven332,seven332@163.com:seven332 hzy980512@users.noreply.github.com:hzy980512 im@mash.im:onlymash ,2376
+46,https://github.com/jruesga/rview,appStarted accountEvent accountSelected,jorge@ruesga.com:Jorge Ruesga,jorge@ruesga.com:Jorge Ruesga,ix5@users.noreply.github.com:ix5,jorge@ruesga.com:Jorge Ruesga dannybaumann@web.de:Danny Baumann mattiabrsrn7@gmail.com:axxx007xxxz ,1637
+47,https://github.com/ashdavies/eternity,log,ash.davies@gmail.com:Ash Davies,ash.davies@gmail.com:Ash Davies,ash.davies@gmail.com:Ash Davies,ash.davies@gmail.com:Ash Davies ,27
+48,https://github.com/alexstyl/Memento-Calendar,"trackThemeSelected trackScreen trackAddEventsCancelled
+trackEventAddedSuccessfully trackContactSelected trackEventDatePicked trackEventRemoved trackImageCaptured trackExistingImagePicked trackAvatarSelected trackContactUpdated trackContactCreated trackDailyReminderEnabled trackDailyReminderDisabled trackDailyReminderTimeUpdated trackWidgetAdded widgetNameOf trackWidgetRemoved trackDonationStarted trackAppInviteRequested trackDonationRestored trackDonationPlaced trackFacebookLoggedIn trackOnAvatarBounce trackFacebookLoggedOut trackVisitGithub trackContactDetailsViewed trackNamedaysScreen trackDailyReminderTriggered",alexanderstyl@gmail.com:Alex Styl,alexanderstyl@gmail.com:Alex Styl,alexanderstyl@gmail.com:Alex Styl,alexanderstyl@gmail.com:Alex Styl dany.bony@gmail.com:Daniele Bonaldo papadopoulou.chrysa@gmail.com:Chrysa Papadopoulou ,1659
+49,https://github.com/ItsCalebJones/SpaceLaunchNow-Android,logEvent,ca.jones9119@gmail.com:Caleb Jones,cjones@tripwire.com:Caleb Jones,ca.jones9119@gmail.com:Caleb Jones,ca.jones9119@gmail.com:Caleb Jones cjones@tripwire.com:Caleb Jones cjones@ALPCJONESM.local:Caleb Jones ,1697
+50,https://github.com/avluis/Hentoid,trackDownloadEvent,cesar.arasaki.88@gmail.com:Cesar Arasaki,cesar.arasaki.88@gmail.com:neko,35880555+RobbWatershed@users.noreply.github.com:RobbWatershed,"35880555+RobbWatershed@users.noreply.github.com:Robb alvaradorocks@gmail.com:Luis E Alvarado wightwulf1944@gmail.com:Subaru ""Shiro"" Tashiro ",3851
+51,https://github.com/AniTrend/anitrend-app,"log logCurrentScreen logCurrentState logException
+clearUserSession setCrashAnalyticUser resetAnalyticsData",mxt.developer@gmail.com:Maxwell,mxt.developer@gmail.com:Maxwell,mxt.developer@gmail.com:Maxwell,mxt.developer@gmail.com:Maxwell 27856297+dependabot-preview[bot]@users.noreply.github.com:dependabot-preview[bot] wax911@users.noreply.github.com:Maxwell Mapako ,772
+52,https://github.com/SebastianRask/Pocket-Plays-for-Twitch,trackEvent,sebofdoom@gmail.com:Sebastian Rask Jepsen,sebofdoom@gmail.com:Sebastian Rask Jepsen,SebastianRaskJepsen@gmail.com:Sebastian Rask Jepsen,srj@trifork.com:Sebastian Rask Jepsen sebofdoom@gmail.com:Sebastian Rask Jepsen sebastianraskjepsen@gmail.com:Sebastian Rask Jepsen ,61
+53,https://github.com/premnirmal/StockTicker,"trackScreenView trackClickEvent
+trackGeneralEvent fromEvent",premnirmal@MacBooks-MacBook-Pro.local:Prem,premnirmal@MacBooks-MacBook-Pro.local:Prem,prem.nirmal88@gmail.com:Prem Nirmal,prem.nirmal88@gmail.com:Prem Nirmal premnirmal@users.noreply.github.com:Prem Nirmal premnirmal@users.noreply.github.com:Prem ,474
+54,https://github.com/google/santa-tracker-android,"recordCustomEvent recordScreenView
+recordInvitationReceived recordInvitationSent
+recordLogin recordAchievement recordGameScore
+recordVillageSantaClick recordSwimmingEnd
+recordRunningEnd recordPresentDropped
+recordPresentsCollected recordPresentsReturned
+recordPresentQuestLevel recordWorkshopMoved
+recordHundredMetersWalked recordCorrectCitySelected
+recordIncorrectCitySelected",jfschmakeit@google.com:Jan-Felix Schmakeit,jfschmakeit@google.com:Jan-Felix Schmakeit,chrisbanes@users.noreply.github.com:Chris Banes,samstern@google.com:Sam Stern samthor@users.noreply.github.com:Sam Thorogood macd@google.com:Mark McDonald ,20
+55,https://github.com/juankysoriano/Zen,"trackBrushColor trackBrushSize trackFlower
+trackShare trackClearSketch",juanky@juankysoriano.com:Juanky Soriano,juanky@juankysoriano.com:Juanky Soriano,juanky.soriano@gmail.com:Juanky Soriano,juanky@juankysoriano.com:Juanky Soriano juanky@juankysoriano.com:Juan Ramirez juanky@novoda.com:Juanky Soriano ,248
+56,https://github.com/StepicOrg/stepik-android,reportEvent report,kir-maka@yandex.ru:Kirill Makarov,kir-maka@yandex.ru:Kirill Makarov,rostislavsmirnoff@gmail.com:Rostislav Smirnov,kir-maka@yandex.ru:Kirill Makarov smartmorefeed@gmail.com:Ruslan Davletshin rostislavsmirnoff@gmail.com:Rostislav Smirnov ,9277
+57,https://github.com/niranjan94/show-java,logEvent,niranjan94@yahoo.com:Niranjan Rajendran,niranjan94@yahoo.com:Niranjan Rajendran,me@niranjan.io:Niranjan Rajendran,niranjan94@yahoo.com:Niranjan Rajendran me@niranjan.io:Niranjan Rajendran hellpiedev@gmail.com:HellPie ,516
